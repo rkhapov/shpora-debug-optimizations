@@ -26,3 +26,5 @@
 
 С разными вопросами можно писать @rkhapov
 
+## Презентация
+https://docs.google.com/presentation/d/1vSv8IpNCa5S2WKANGve5PsblWyX9l3RDBJn_VUtQo9k/edit?usp=sharing
